@@ -8,4 +8,4 @@ This page was made using:
 2. CSS
 
 
-You can take a look of my portfolio [**here**](julianlizarazo.github.io/Bata-bit/ "here")
+You can take a look of my portfolio [**here**](https://julianlizarazo.github.io/Bata-bit/ "here")
